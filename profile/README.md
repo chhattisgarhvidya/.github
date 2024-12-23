@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/your-org?style=social)](https://github.com/chhattisgarhvidya)
 [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue)](https://chhattisgarhvidya.org)
 
----
+
 
 ## 🌟 Who We Are
 
